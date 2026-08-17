@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Human Eval framework
+human-eval/
+
 # Distribution / packaging
 .Python
 build/
